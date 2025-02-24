@@ -112,7 +112,7 @@ class WebpageCloner:
 
 # Example usage
 if __name__ == "__main__":
-    url = "https://kylongtech.com/"
+    url = "https://example.com/"
     output_dir = "cloned_website"
     
     cloner = WebpageCloner(url, output_dir)
